@@ -1,1 +1,1 @@
-# coba
+This is my project when I was in college. The aims of this project is to make application it can give people information about people density in shopping center. The project used combination between mongodb or excel and kivy package.
